@@ -1,7 +1,7 @@
-### Hi there 👋 I’m Luis
-🌱 I’m currently learning Python
-🤔 I’m interested in software automation testing
-📫 Reach me on Linkedin
+### Hi there! I’m Luis 👋  
+🌱 I’m currently learning Python  
+🤔 I’m interested in software automation testing  
+📫 Reach me on Linkedin  
 <!--
 **luisbravoaguero/luisbravoaguero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
